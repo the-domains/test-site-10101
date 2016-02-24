@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Just another lonely site]]></title>
         <description><![CDATA[Just another lonely site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-site-10101/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 04:54:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 05:01:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-site-10101/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Feature Post Take 2...What Happens now?</p>]]></description>
+            <link>https://thegrid.ai/test-site-10101/126cb946-6c2c-482e-8907-c1dcc49f7b96/index.html</link>
+            <guid isPermaLink="false">126cb946-6c2c-482e-8907-c1dcc49f7b96</guid>
+            <pubDate>Wed, 24 Feb 2016 05:01:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Page]]></title>
             <description><![CDATA[<article><h1>New Page</h1><p>Stranded....Where is everyone? Anybody?</p></article>]]></description>
-            <link>undefinednew-page/index.html</link>
+            <link>https://thegrid.ai/test-site-10101/new-page/index.html</link>
             <guid isPermaLink="false">be572304-164a-4e8d-9021-ec5f59a1efa9</guid>
             <pubDate>Wed, 24 Feb 2016 04:53:57 GMT</pubDate>
         </item>
