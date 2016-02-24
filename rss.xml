@@ -4,11 +4,18 @@
         <description><![CDATA[Just another lonely site]]></description>
         <link>https://thegrid.ai/test-site-10101/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 04:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 04:17:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site-10101/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Navigation!]]></title>
+            <description><![CDATA[<article><h1>Navigation!</h1><p>I have no clue what i am doing...</p></article>]]></description>
+            <link>https://thegrid.ai/test-site-10101/navigation/index.html</link>
+            <guid isPermaLink="false">6c75152e-6219-46af-9d6d-62e5e99b2820</guid>
+            <pubDate>Wed, 24 Feb 2016 04:16:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Thomas Bergersen - Remember Me]]></title>
-            <description><![CDATA[<article><h1>Thomas Bergersen - Remember Me</h1><p>Buy this album on iTunes: http://tiny.cc/TJB-Illusions Follow Thomas on Facebook: http://fbl.me/TJB Follow Two Steps From Hell on Facebook: http://fbl.me/TSFH Composed by Thomas Bergersen. Audio quality has been lowered due to public availability, please support the composer by purchasing the album for the full audio experience.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Thomas Bergersen - Remember Me</h1><p>Buy this album on iTunes: http://tiny.cc/TJB-Illusions Follow Thomas on Facebook: http://fbl.me/TJB Follow Two Steps From Hell on Facebook: http://fbl.me/TSFH Composed by Thomas Bergersen. Audio quality has been lowered due to public availability, please support the composer by purchasing the album for the full audio experience.</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=YwMDL4tU-FE&amp;list=PLBqmFdgg9Kd2Co7JYCJ86aO_Bz-VYma4P&amp;index=173</link>
             <guid isPermaLink="false">5c7d4da3-0967-40d6-bc69-650fb61e6b55</guid>
             <pubDate>Wed, 24 Feb 2016 04:16:49 GMT</pubDate>
