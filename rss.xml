@@ -4,14 +4,14 @@
         <description><![CDATA[Just another lonely site]]></description>
         <link>https://thegrid.ai/test-site-10101/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 05:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 05:14:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site-10101/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Page]]></title>
             <description><![CDATA[<article><h1>New Page</h1><p>Stranded....Where is everyone? Anybody?</p></article>]]></description>
             <link>https://thegrid.ai/test-site-10101/new-page/index.html</link>
             <guid isPermaLink="false">be572304-164a-4e8d-9021-ec5f59a1efa9</guid>
-            <pubDate>Wed, 24 Feb 2016 04:53:57 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 05:13:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
