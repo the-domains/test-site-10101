@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-24T05:33:42.306Z'
-dateModified: '2016-02-24T05:30:36.441Z'
+description: Navigation maybe....
+datePublished: '2016-02-24T05:36:54.584Z'
+dateModified: '2016-02-24T05:36:41.901Z'
 title: Lorem Ipsum
+author: []
+sourcePath: _posts/2016-02-24-lorem-ipsum.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-24-lorem-ipsum.md
-published: true
 url: lorem-ipsum/index.html
 _type: Article
 
