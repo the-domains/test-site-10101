@@ -4,7 +4,7 @@
         <description><![CDATA[Just another lonely site]]></description>
         <link>https://thegrid.ai/test-site-10101/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 03:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 03:55:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site-10101/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,12 @@
             <link>https://thegrid.ai/test-site-10101/aaacc7d0-5ef8-4e87-99fb-770eba146024/index.html</link>
             <guid isPermaLink="false">aaacc7d0-5ef8-4e87-99fb-770eba146024</guid>
             <pubDate>Wed, 24 Feb 2016 03:49:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/test-site-10101/c32b32f1-dfda-46d6-8694-181c666f25b4/index.html</link>
+            <guid isPermaLink="false">c32b32f1-dfda-46d6-8694-181c666f25b4</guid>
+            <pubDate>Wed, 24 Feb 2016 03:55:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
