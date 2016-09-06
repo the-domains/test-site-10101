@@ -1,20 +1,4 @@
-name: Test Site 10101
-favicon: null
-layout_spectrum: 0.25361
 typography_spectrum: 0.22417
-title: Just another lonely site
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#8c0bf9'
@@ -26,4 +10,20 @@ color:
   lightness: 0.3125
   saturation: 0.6875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25361
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Test Site 10101
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Spin and Go!
 purpose: []
